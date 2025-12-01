@@ -39,3 +39,9 @@ Conditional logic
 File operations using os.Remove()
 
 Basic error handling
+
+Run the Program
+go run main.go
+
+
+Make sure test.txt exists in the same folder if you want to see the delete operation succeed.
