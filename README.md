@@ -14,3 +14,16 @@ Using conditional statements (if-else)
 Performing a file delete operation
 
 Handling errors safely
+
+How It Works
+
+The program asks the user a question:
+“Do you love me? (yes or no)”
+
+If the user types yes:
+The program prints a friendly message.
+
+If the user types no:
+The program attempts to delete a file named test.txt in the project directory.
+If the file exists, it is deleted.
+If not, the program shows an error message.
